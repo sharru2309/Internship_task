@@ -1,4 +1,4 @@
-# problem: Validating the PhoneNumber 
+# problem: Validating the PhoneNumbers 
 # HackerRank Link: https://www.hackerrank.com/challenges/validating-the-phone-number/problem
 
 
